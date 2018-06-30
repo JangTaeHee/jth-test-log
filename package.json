@@ -1,0 +1,22 @@
+{
+  "name": "jth-test-log",
+  "version": "1.0.0",
+  "description": "npm test module",
+  "main": "index .js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JangTaeHee/jth-test-log.git"
+  },
+  "keywords": [
+    "jth"
+  ],
+  "author": "jth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JangTaeHee/jth-test-log/issues"
+  },
+  "homepage": "https://github.com/JangTaeHee/jth-test-log#readme"
+}
